@@ -1,0 +1,110 @@
+[
+  {
+    "id": "beijinho",
+    "name": "Cookie Beijinho",
+    "price": 12,
+    "img": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=800&q=85",
+    "desc": "Um beijinho para deixar o dia mais doce! Nossa massa amanteigada com gotas de chocolate preto abraça um recheio cremoso de beijinho, trazendo o sabor do coco em cada mordida. São 100g de cookie feito com afeto, para saborear com calma e guardar um carinho na memória.",
+    "available": true,
+    "placeholder": false
+  },
+  {
+    "id": "brigadeirao",
+    "name": "Cookie Brigadeirão",
+    "price": 12,
+    "img": "https://images.unsplash.com/photo-1598373182133-52452f7691ef?auto=format&fit=crop&w=800&q=85",
+    "desc": "Tem dias que pedem um capricho a mais no chocolate. Nosso Brigadeirão combina massa preparada com cacau 100%, recheio de brigadeiro cremoso de cacau e cobertura de chocolate. O cookie completo tem 100g, com a intensidade do cacau e a doçura do brigadeiro se encontrando em cada mordida. Feito com carinho para aquele momento só seu.",
+    "available": true,
+    "placeholder": false
+  },
+  {
+    "id": "tradicional",
+    "name": "Cookie Tradicional",
+    "price": 6,
+    "img": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=800&q=85",
+    "desc": "Tem clássico que sempre encontra um lugar na nossa pausa. Nosso Cookie Tradicional combina massa amanteigada, preparada com manteiga noisette e gotinhas de chocolate preto que deixam cada mordida ainda mais gostosa. São 50g de cookie feito com carinho, para acompanhar um cafezinho, uma boa conversa ou um momento só seu.",
+    "available": true,
+    "placeholder": false
+  },
+  {
+    "id": "cacau",
+    "name": "Cookie Cacau",
+    "price": 6,
+    "img": "https://images.unsplash.com/photo-1598373182133-52452f7691ef?auto=format&fit=crop&w=800&q=85",
+    "desc": "Para quem gosta de uma pausa com sabor de chocolate. Nosso Cookie Cacau combina massa amanteigada, preparada com manteiga noisette e cacau 100%, com gotinhas de chocolate preto. São 50g de cookie com sabor intenso e carinho em cada detalhe, para deixar os pequenos momentos do dia ainda mais gostosos.",
+    "available": true,
+    "placeholder": false
+  },
+  {
+    "id": "novo-5",
+    "name": "Tortinha Red Velvet",
+    "price": 15,
+    "img": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=800&q=85",
+    "desc": "Que Red Velvet é um clássico, a gente já sabe. E por aqui ele tem um espaço especial! Nossa tortinha de cookie leva pedaços de chocolate branco e uma cobertura de brigadeiro de limão e chocolate branco, finalizada com raspinhas de limão. São 100g de tortinha, com doçura e um toque cítrico que fazem companhia à sua pausa. Um carinho para saborear até o último pedacinho.",
+    "available": true,
+    "placeholder": false
+  },
+  {
+    "id": "novo-6",
+    "name": "Cookie Kinder Bueno",
+    "price": 18,
+    "img": "https://images.unsplash.com/photo-1598373182133-52452f7691ef?auto=format&fit=crop&w=800&q=85",
+    "desc": "Uma pausa gostosa merece um toque especial. Nosso Cookie Kinder Bueno combina massa amanteigada com recheio cremoso de Kinder Bueno. No topo, um pedacinho crocante de chocolate fecha essa delícia com chave de ouro. São 100g entre massa e recheio, com o chocolate do topo como um carinho a mais para você aproveitar cada pedacinho.",
+    "available": true,
+    "placeholder": false
+  },
+  {
+    "id": "novo-7",
+    "name": "Cookie Ovomaltine",
+    "price": 18,
+    "img": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=800&q=85",
+    "desc": "Duas massas e uma deliciosa combinação de texturas! Nosso Cookie Ovomaltine une as massas tradicional e de cacau com pedacinhos de chocolate branco e preto, envolvendo um recheio cremoso de Ovomaltine. Para completar, Ovomaltine Rocks no topo traz aquela crocância que faz a gente querer mais uma mordida. Um cookie de 100g, feito com carinho para deixar sua pausa ainda mais gostosa.",
+    "available": true,
+    "placeholder": false
+  },
+  {
+    "id": "novo-8",
+    "name": "Cookie MM's",
+    "price": 18,
+    "img": "assets/cookie-mms.webp",
+    "desc": "Um toque de cor para os seus momentos mais doces! Nosso Cookie de M&M’s combina massa amanteigada com gotinhas de chocolate preto e um recheio cremoso de brigadeiro branco com M&M’s de chocolate preto. A cobertura de chocolate e os confeitos coloridos completam essa mistura de cremosidade e crocância. Um cookie de 100g, feito com carinho para despertar sorrisos a cada mordida.",
+    "available": true,
+    "placeholder": false
+  },
+  {
+    "id": "novo-9",
+    "name": "Cookie S'more",
+    "price": 18,
+    "img": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=800&q=85",
+    "desc": "Um clássico dos Estados Unidos com um toque de afeto da nossa cozinha! Nosso Cookie S’more combina massa amanteigada com gotinhas de chocolate preto, mini marshmallows e um irresistível recheio de Nutella. São 100g de cookie que convidam a saborear sem pressa, entre a maciez dos marshmallows e a cremosidade do recheio. Difícil é não querer mais um pedacinho.",
+    "available": true,
+    "placeholder": false
+  },
+  {
+    "id": "novo-10",
+    "name": "Cookie Bolo de Cenoura",
+    "price": 15,
+    "img": "assets/cookie-bolo-de-cenoura.webp",
+    "desc": "Sabe aquele bolinho de cenoura com chocolate que tem gostinho de carinho e lembra os momentos mais gostosos de casa? Agora imagine essa delícia em forma de cookie! Nosso Cookie de Bolo de Cenoura combina uma massa artesanal com um pedacinho fofinho de bolo de cenoura no meio e uma generosa cobertura de chocolate por cima.",
+    "available": true,
+    "placeholder": false
+  },
+  {
+    "id": "novo-11",
+    "name": "Duo da Felicidade",
+    "price": 50,
+    "img": "assets/duo-da-felicidade.webp",
+    "desc": "Nosso Duo da Felicidade combina o sabor aconchegante do cookie artesanal com a doçura irresistível do chocolate. Cada pedacinho é metade cookie, metade chocolate e inteirinho feito para adoçar o seu dia.",
+    "available": true,
+    "placeholder": false
+  },
+  {
+    "id": "novo-12",
+    "name": "Biscoitos Amanteigados no Pote",
+    "price": 100,
+    "img": "assets/pote-amanteigado.webp",
+    "desc": "Tem sabores que fazem a gente se sentir em casa! Nossos biscoitos amanteigados são preparados com carinho, têm um sabor delicado e uma textura que derrete na boca. Perfeitos para acompanhar um cafezinho, compartilhar uma conversa gostosa ou aproveitar um momento só seu. Em um potinho cheio de afeto, são também uma forma delicada de presentear e demonstrar carinho. Porque os pequenos gestos também podem guardar grandes sentimentos.",
+    "available": true,
+    "placeholder": false
+  }
+]

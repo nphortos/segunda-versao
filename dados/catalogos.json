@@ -1,0 +1,134 @@
+{
+  "brindes": [
+    [
+      "Cookie individual personalizado",
+      "Opção ilustrativa de lembrança com embalagem individual."
+    ],
+    [
+      "Caixa presente com cookies",
+      "Sugestão de seleção artesanal para presentear."
+    ],
+    [
+      "Kit de boas-vindas",
+      "Ideia de presente para integrar equipes."
+    ],
+    [
+      "Lembrança para clientes",
+      "Proposta de mimo em ações de relacionamento."
+    ],
+    [
+      "Mini seleção de cookies",
+      "Sugestão de variedade em embalagem compacta."
+    ],
+    [
+      "Caixa comemorativa",
+      "Ideia para datas especiais da empresa."
+    ],
+    [
+      "Cookie com cartão",
+      "Sugestão de presente acompanhado de mensagem."
+    ],
+    [
+      "Kit para reuniões",
+      "Seleção ilustrativa para encontros de equipe."
+    ],
+    [
+      "Presente de agradecimento",
+      "Proposta de lembrança para parceiros."
+    ],
+    [
+      "Box corporativa",
+      "Sugestão de conjunto para ocasiões especiais."
+    ]
+  ],
+  "eventos": [
+    [
+      "Cartão Amanteigado",
+      "Um cartão cheio de carinho, acompanhado de um delicioso biscoito amanteigado. Um mimo memorável para adoçar o Natal e tornar essa linda data ainda mais especial.",
+      "assets/postal-natal-biscoito.png"
+    ],
+    [
+      "Doce Encontro",
+      "Chocolate ao leite e pedacinhos da nossa tradicional massa amanteigada de cookies se encontram em uma barra cheia de afeto. São 90g de um encontro perfeito para adoçar o Natal.",
+      "assets/doce-encontro-natal.png"
+    ],
+    [
+      "Cookie Surpresa",
+      "A primeira mordida revela uma doce surpresa! Sabores inéditos no nosso cardápio e combinações incríveis esperam por você. São 50g de muito sabor e afeto para descobrir e se encantar neste Natal.",
+      "assets/chocolates-natal.png"
+    ],
+    [
+      "Bolo Porcelana",
+      "Um bolo fofinho de cenoura, com recheio cremoso de chocolate preto e carinho em cada detalhe. A cobertura de porcelana recebe uma pintura personalizada, feita à mão, para tornar cada bolo especial. Em uma embalagem elegante e pronta para presentear, é um doce gesto de afeto para encantar neste Natal.",
+      "assets/bolo-porcelana-natal.png"
+    ],
+    [
+      "Pote Amanteigado",
+      "Um pote cheio de carinho, com 500g de biscoitos amanteigados sortidos. Sabores delicados para compartilhar bons momentos ou presentear com afeto neste Natal.",
+      "assets/pote-amanteigado-natal.png"
+    ],
+    [
+      "Mini cookies",
+      "Nossos clássicos em pequenos bocados de afeto! Mini cookies sortidos nos sabores cacau, beijinho, brigadeiro e tradicional, em uma embalagem cheia de charme para presentear e adoçar o Natal de quem você ama.",
+      "assets/mini-cookies-natal.png"
+    ],
+    [
+      "Porções individuais",
+      "Sugestão de apresentação prática."
+    ],
+    [
+      "Caixa para anfitriões",
+      "Ideia de presente para quem organiza."
+    ],
+    [
+      "Mesa de biscoitos",
+      "Proposta de composição artesanal para o evento."
+    ],
+    [
+      "Lembrança de despedida",
+      "Sugestão de mimo ao final da celebração."
+    ]
+  ],
+  "catering": [
+    [
+      "Cookies clássicos",
+      "Sugestão de biscoitos artesanais para servir."
+    ],
+    [
+      "Cookies com chocolate",
+      "Opção ilustrativa de cookie com gotas de chocolate."
+    ],
+    [
+      "Mini cookies variados",
+      "Seleção sugerida em porções menores."
+    ],
+    [
+      "Pães artesanais",
+      "Sugestão de acompanhamento para cafés."
+    ],
+    [
+      "Bolo caseiro",
+      "Opção ilustrativa para mesa de café."
+    ],
+    [
+      "Seleção para coffee break",
+      "Combinação sugerida para intervalos."
+    ],
+    [
+      "Biscoitos para reuniões",
+      "Sugestão prática para encontros de trabalho."
+    ],
+    [
+      "Caixa de doces",
+      "Proposta de seleção para compartilhar."
+    ],
+    [
+      "Mesa de café",
+      "Ideia de composição com opções doces e salgadas."
+    ],
+    [
+      "Kit individual",
+      "Sugestão de porção para cada participante."
+    ]
+  ]
+}

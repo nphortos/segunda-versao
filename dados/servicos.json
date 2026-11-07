@@ -1,0 +1,23 @@
+[
+  {
+    "id": "brindes",
+    "title": "Afeto para Presentear",
+    "img": "assets/presente-rustico-floral.webp",
+    "short": "Pequenos mimos, grandes sorrisos. Transforme carinho em presentes e brindes personalizados para surpreender em cada ocasião.",
+    "body": "Presentes, brindes e biscoitos preparados com carinho para empresas, festas, encontros e celebrações, com embalagens especiais, apresentações personalizadas e opções de quantidade."
+  },
+  {
+    "id": "eventos",
+    "title": "HO HO HO",
+    "img": "assets/cardapio-natal.png",
+    "short": "O Natal fica mais doce com afeto. Biscoitos e presentes para compartilhar a magia dessa época especial. Encomendas até 1º de dezembro ou enquanto durarem os estoques.",
+    "body": "Biscoitos artesanais e presentes de Natal preparados com carinho para surpreender e celebrar com quem você ama. Recebemos encomendas até 1º de dezembro ou enquanto durarem os estoques. Garanta seu carinho de Natal!"
+  },
+  {
+    "id": "catering",
+    "title": "Afeto Triplo",
+    "img": "assets/combos-e-promocoes-catering.webp",
+    "short": "Monte a mesa perfeita com nossos biscoitos clássicos, pães e delícias caseiras.",
+    "body": "Que tal um carinho a mais? Descubra nossos combos e promoções especiais."
+  }
+]
